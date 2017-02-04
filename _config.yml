@@ -18,7 +18,7 @@ avatar: https://avatars3.githubusercontent.com/u/23055115
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: personaontherun@gmail.com
   facebook:
   flickr:
   github: personaontherun
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: personaontherun
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/7070153/personaontherun # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
