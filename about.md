@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Technology is the great equalizer that can dramatically improve the quality of a person’s life through the click of a mouse button. Technology is constantly evolving to remove barriers that emerge due to a person’s social characteristics, geographic location, physical or sensory abilities.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[personaonthemailbox@gmail.com](mailto:personaonthemailbox@gmail.com)
