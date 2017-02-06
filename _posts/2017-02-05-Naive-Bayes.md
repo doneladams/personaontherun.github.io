@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ## Naive Bayes classifier - scikit-learn
 
@@ -26,5 +26,3 @@ In this one we are going to dive into [Naive Bayes](http://scikit-learn.org/stab
 [Naive Bayes Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 [scikit-learn.org](http://scikit-learn.org/stable/modules/naive_bayes.html)
-
-
